@@ -45,4 +45,4 @@ group :development do
   gem 'spring'
 end
 
-gem 'sprockets-es6'
+gem 'sprockets-es6', :github => 'rmacklin/sprockets-es6', :ref => 'e70ae24f150c7c7af7313d8d8ff83853ddb9dd8a'
